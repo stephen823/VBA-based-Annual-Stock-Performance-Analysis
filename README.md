@@ -1,9 +1,6 @@
-# VBA-challenge
-This project involves an analysis of the stock market. The key objective is to analyze the yearly performance of stock from 2014 to 2016. .
-#Stephen Zhang
 
 # VBA-challenge
-This project is a analysis of the stock market perfromance between 2014 and 2016
+This project is a analysis of the stock market perfromance between 2014 and 2016.
 
 #### -- Project Status: [Completed]
 
