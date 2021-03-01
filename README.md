@@ -1,5 +1,5 @@
 
-# VBA-challenge
+# VBA based Annual Stock Performance Analysis
 This project is a analysis of the stock market perfromance between 2014 and 2016.
 
 #### -- Project Status: [Completed]
